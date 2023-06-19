@@ -1,6 +1,6 @@
 {
   "name": "test_client_sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "For the JavaScript SDK to work your APIs need to support CORS. The Amazon API Gateway developer guide explains how to [setup CORS for an endpoint](). The generated SDK depends on third-party libraries. Include all of the scripts in your webpage",
   "main": "apigClient.js",
   "directories": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Son-Hom/Test_client_SDK/issues"
   },
-  "homepage": "https://github.com/Son-Hom/Test_client_SDK#readme"
+  "homepage": "https://github.com/Son-Hom/Test_client_SDK#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
