@@ -1,6 +1,6 @@
 {
   "name": "@son-hom/test_client_sdk",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "For the JavaScript SDK to work your APIs need to support CORS. The Amazon API Gateway developer guide explains how to [setup CORS for an endpoint](). The generated SDK depends on third-party libraries. Include all of the scripts in your webpage",
   "main": "apigClient.js",
   "directories": {
